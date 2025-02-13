@@ -25,14 +25,6 @@ Each audio file in `audio-data.zip` has a corresponding label file in `audio-lab
 
 ---
 
-## 🏗️ Labeling Methodology  
-
-- Labels were **manually annotated** and reviewed by domain experts.
-- The dataset supports **two-way classification (distress vs. non-distress)** and **three-way classification (fuss, cry, other)**.
-- Audio samples were collected in real-world settings, ensuring diverse and challenging conditions for model generalization.
-
----
-
 ## 🚀 Usage Instructions  
 
 1. **Download & Extract Files**  
